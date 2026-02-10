@@ -1,0 +1,27 @@
+
+.ProfileCard{
+    border: 10px solid #e9e8eb;
+    width: 250px;
+    height: 250px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 3em;
+    padding-right: 3em;
+    text-align: center;
+    border-radius: 20px;
+    margin: 0.5em;
+    background-color: white;
+    box-shadow: 5px 5px 5px gray;
+}
+.ProfileCard img{
+    border-radius: 50%;
+    width: 6em;
+}
+.ProfileCard h3{
+    font-weight: bold;
+    height: 25px;
+}
+.ProfileCard p{
+    color: grey;
+    height: 35px;
+}

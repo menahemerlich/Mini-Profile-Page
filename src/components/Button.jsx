@@ -1,0 +1,10 @@
+import React from 'react'
+import '../css/Button.css'
+
+function Button(props) {
+  return (
+    <button className={props.personType}>{props.personType}</button>
+  )
+}
+
+export default Button
